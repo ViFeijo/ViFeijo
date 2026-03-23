@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5cadc0"/>
 <h1>Desenvolvedor FullStack</h1>
 
 <p align="left">Me chamo Vitor Feijó, sou natural do Rio Grande do Sul e atualmente estou cursando Engenharia de Software na PUCRS</p>
