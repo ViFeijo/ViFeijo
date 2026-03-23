@@ -2,7 +2,7 @@
 <h1>Desenvolvedor FullStack</h1>
 
 <p align="left">Me chamo Vitor Feijó, sou natural do Rio Grande do Sul e atualmente estou cursando Engenharia de Software na PUCRS</p>
-###
+
 
 <h2 align="left">Linguagens e Tecnologias:</h2>
 <div align="left">
