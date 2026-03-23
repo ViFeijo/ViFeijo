@@ -2,7 +2,9 @@
 <h1>Desenvolvedor FullStack</h1>
 
 <p align="left">Me chamo Vitor Feijó, sou natural do Rio Grande do Sul e atualmente estou cursando Engenharia de Software na PUCRS</p>
-
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
 ###
 
 <h2 align="left">Linguagens e Tecnologias:</h2>
