@@ -35,3 +35,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vifeijo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+![Snake animation](https://raw.githubusercontent.com/ViFeijo/ViFeijo/snake-output/snake.svg)
