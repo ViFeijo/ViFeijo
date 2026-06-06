@@ -1,4 +1,4 @@
-<img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGjV89zX7rsmg/feedshare-shrink_800/feedshare-shrink_800/0/1732882800028?e=2147483647&v=beta&t=CBOC4L9ZowZUlI59txdLpALxY20OD3qJj6YXak0_mX4" />
+
 
 # 👩🏻‍💻 Vitor Feijó
 **`Desenvolvedor FullStack`**
