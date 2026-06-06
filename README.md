@@ -1,4 +1,4 @@
-
+<img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGjV89zX7rsmg/feedshare-shrink_800/feedshare-shrink_800/0/1732882800028?e=2147483647&v=beta&t=CBOC4L9ZowZUlI59txdLpALxY20OD3qJj6YXak0_mX4" />
 
 # 👩🏻‍💻 Vitor Feijó
 **`Desenvolvedor FullStack`**
@@ -34,5 +34,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vifeijo&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-![Snake animation](https://raw.githubusercontent.com/ViFeijo/ViFeijo/snake-output/snake.svg)
+
